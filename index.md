@@ -1,10 +1,8 @@
 ---
 layout: page
-title: Fortran Magic
+title: Posts
 tagline:
 ---
-
-## Posts
 
 <ul class="posts">
   {% for post in site.posts %}
